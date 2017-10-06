@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 Luka Mirosevic. All rights reserved.
 //
 
+#import <CoreGraphics/CGBase.h>
 #import <Foundation/Foundation.h>
 
 #import "GBDeviceInfoTypes_Common.h"
