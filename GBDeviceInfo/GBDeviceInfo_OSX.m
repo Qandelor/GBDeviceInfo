@@ -16,14 +16,13 @@
 //  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
-#import <AppKit/AppKit.h>
-
 #include <TargetConditionals.h>
 
 #if TARGET_OS_OSX
 
 #import "GBDeviceInfo_OSX.h"
 
+#import <AppKit/AppKit.h>
 #import <Cocoa/Cocoa.h>
 
 #import <sys/utsname.h>
